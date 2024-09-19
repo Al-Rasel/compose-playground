@@ -14,9 +14,7 @@ buildConfigField("String", "BASIC_AUTH_TOKEN", "\"your_github_token\"")
 
 ## User Interface
 The app's user interface is designed for supprot both dark and light mode
-<video width="640" height="360" controls>
-<source src="docs/evidence.mp4" type="video/mp4">
-</video>
+<video src="docs/evidence.mp4"></video>
 
 ## Todo
 
