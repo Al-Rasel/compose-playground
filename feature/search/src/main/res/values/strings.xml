@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_search_title">Search</string>
+    <string name="feature_search_clear_search_text_content_desc">Clear search text</string>
+</resources>
